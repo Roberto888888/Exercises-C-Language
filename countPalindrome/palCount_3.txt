@@ -1,0 +1,7 @@
+civic'civic level three with a kayak 
+
+Sentence n.: 4
+
+N. of Palindrome words: 4
+
+END.

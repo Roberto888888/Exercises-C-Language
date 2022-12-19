@@ -1,0 +1,7 @@
+peep_peep.
+
+Sentence n.: 3
+
+N. of Palindrome words: 1
+
+END.

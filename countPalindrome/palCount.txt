@@ -1,0 +1,7 @@
+ABBA bought a rotator to surprise mom.
+
+Sentence n.: 1
+
+N. of Palindrome words: 3
+
+END.
