@@ -1,0 +1,20 @@
+Phrases with more than 0 instance of <gattaca> before <Bonk>:
+
+Phrase n. 1:
+gattaca gattacagattaca gattaca gattaca, gattaca Bonk. (Instances: 4) 
+
+Phrase n. 2:
+gattaca_ gattaca-gattaca; gattaca gattaca Bonk gattaca. (Instances: 5) 
+
+Phrase n. 4:
+gattaca: gattaca gattaca (gattaca) gattaca.gattaca'Bonk gattaca. (Instances: 4) 
+
+Phrase n. 6:
+gattaca/gattaca gattaca\gattaca Bonk; gattaca. (Instances: 4) 
+
+Phrase n. 9:
+gattaca-gattaca gattaca_gattaca gattaca Bonk. (Instances: 5) 
+
+Phrase n. 10:
+gattaca-gattaca Bonk gattaca_gattaca gattaca Bonk. (Instances: 2) 
+
