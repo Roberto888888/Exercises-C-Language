@@ -1,0 +1,3 @@
+Data for ID = 0007:
+
+Ellen                Ripley                40   lieutenant       1000.00

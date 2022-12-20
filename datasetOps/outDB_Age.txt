@@ -1,0 +1,18 @@
+16 matches for age ≥ 35:
+
+0001  Albert               Einstein              50   physicist        2000.00
+0002  Winston              Smith                 39   employee         1000.00
+0003  Samwise              Gamgee                70   gardener         1200.00
+0004  Severus              Snape                 50   professor        4000.00
+0006  Ugo                  Fantozzi              35   CPA              1000.00
+0007  Ellen                Ripley                40   lieutenant       1000.00
+0008  Joachim              Meyer                 48   swordman         3000.00
+0009  David                Hayter                45   actor           10000.00
+0010  Donald               Anderson             103   consultant      20000.00
+0011  Salvator             Fabris                38   swordman         4000.00
+0012  Mata                 Hari                  37   spy             10000.00
+0013  David                Bowman                35   astronaut        7000.00
+0014  Emmanuel             Goldstein             40   secretary        2000.00
+0015  Winnie               Pooh                  88   bear             8000.00
+0020  Kio                  Marv                  40   engineer         9000.00
+0021  Andre                Astora                60   blacksmith       2100.89
