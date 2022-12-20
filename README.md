@@ -18,4 +18,5 @@ Upon reading at the code again when I was translating the comments in English I 
 - In the case of dbOps, it might be a good idea to work with pointers if sorted is included, to avoid moving a lot of data around.
 
 
-Should anybody ever use this repository for learning or fun, you're welcome to try and improve the code and send me the improved code :) 
+### PS 
+Should anybody ever use this repository for learning or fun, you're welcome to try and improve the code and contact me :) 
